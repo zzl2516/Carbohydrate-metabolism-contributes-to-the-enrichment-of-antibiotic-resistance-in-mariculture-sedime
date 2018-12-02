@@ -1,0 +1,4 @@
+	Control	P.SC	P.JF	P	P.JF.C
+ALL	33	56	59	163	217
+Bacteroidetes	0	27	25	75	103
+Gillisia	0	2	1	18	19
