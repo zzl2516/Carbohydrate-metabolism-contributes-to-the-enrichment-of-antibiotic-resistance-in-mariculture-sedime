@@ -1,0 +1,9 @@
+Call:
+protest(X = mds.otu, Y = mds.env) 
+
+Procrustes Sum of Squares (m12 squared):        0.7705 
+Correlation in a symmetric Procrustes rotation: 0.479 
+Significance:  0.055 
+
+Permutation: free
+Number of permutations: 999
