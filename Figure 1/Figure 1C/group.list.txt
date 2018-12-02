@@ -1,0 +1,15 @@
+P.1	P
+P.2	P
+P.3	P
+P.JF.C.1	P.JF.C
+P.JF.C.2	P.JF.C
+P.JF.C.3	P.JF.C
+P.SC.1	P.SC
+P.SC.2	P.SC
+P.SC.3	P.SC
+P.JF.1	P.JF
+P.JF.2	P.JF
+P.JF.3	P.JF
+Control.1	Control
+Control.2	Control
+Control.3	Control

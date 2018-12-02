@@ -1,0 +1,16 @@
+	Num	Group
+P.1	80	P
+P.2	74	P
+P.3	78	P
+P.JF.C.1	70	P.JF.C
+P.JF.C.2	72	P.JF.C
+P.JF.C.3	81	P.JF.C
+P.SC.1	50	P.SC
+P.SC.2	59	P.SC
+P.SC.3	66	P.SC
+P.JF.1	58	P.JF
+P.JF.2	61	P.JF
+P.JF.3	48	P.JF
+Control.1	45	Control
+Control.2	43	Control
+Control.3	56	Control
